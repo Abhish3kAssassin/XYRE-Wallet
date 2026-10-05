@@ -1,0 +1,24 @@
+Copyright © 2026 XYRE Wallet. All Rights Reserved.
+
+The source code and associated files in this repository are proprietary and are provided for viewing and evaluation purposes only.
+
+Permission is NOT granted to:
+
+- copy or reproduce the software;
+- modify, adapt, translate, or create derivative works;
+- distribute, publish, sublicense, or redistribute the software;
+- sell, rent, license, monetize, or otherwise use the software for commercial purposes;
+- use the software, in whole or in part, to create or operate another cryptocurrency wallet, financial product, service, or application;
+- remove or alter copyright, branding, attribution, or proprietary notices.
+
+No rights are granted except with prior written permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, LOSS OF FUNDS, LOSS OF DATA, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+Third-party libraries and dependencies included with or used by this software remain subject to their respective licenses.
+
+For licensing or permission requests, contact the copyright holder.
+
+All rights not expressly granted are reserved.
